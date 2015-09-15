@@ -1,6 +1,6 @@
 {
   "name": "mock-stream",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mock the `stream` module",
   "main": "index.js",
   "scripts": {
